@@ -1,13 +1,19 @@
 [
    {
       "title":"Minimalism",
-      "thumb":"https://i.ibb.co/J246214/IMG-20230525-202909.jpg",
+      "thumb":"https://i.ibb.co/ChRBV07/kt1.jpg",
       "order":"https",
       "demo":"https"
    },
    {
-   "title":"Authentic",
-   "thumb":"https://i.ibb.co/J246214/IMG-20230525-202909.jpg",
+   "title":"Greenlove",
+   "thumb":"https://i.ibb.co/QXDMfKT/kt3.jpg",
+   "order":"https",
+   "demo":"https"
+   },
+   {
+   "title":"Mybrown",
+   "thumb":"https://i.ibb.co/qMMKJZX/kt5.jpg",
    "order":"https",
    "demo":"https"
    }
