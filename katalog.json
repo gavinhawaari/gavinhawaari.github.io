@@ -2,12 +2,14 @@
    {
       "title":"Minimalism",
       "thumb":"https://i.ibb.co/ChRBV07/kt1.jpg",
+      "endpoint":"tema-minimalism",
       "order":"https",
       "demo":"https"
    },
    {
    "title":"Greenlove",
    "thumb":"https://i.ibb.co/QXDMfKT/kt3.jpg",
+   "endpoint":"tema-greenlove",
    "order":"https",
    "demo":"https"
    },
